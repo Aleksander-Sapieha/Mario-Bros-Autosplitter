@@ -21,3 +21,5 @@ This is a lua script that communicates with LiveSplit, and automatically starts/
    a) split_on_stage_increase is true or false
    
    b) auto_start is either true or false
+
+# Point detection was removed because it didn't work
