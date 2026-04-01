@@ -17,7 +17,7 @@ This is a lua script that communicates with LiveSplit, and automatically starts/
 
 1. Open the script in your favourite text editor
 2. Modify values in settings:
-3. 
+   
    a) split_on_stage_increase is true or false
    
    b) split_on_score_increase is true or false
